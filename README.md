@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f7228b4a-a572-4e76-820b-4eedd383527f)![image](https://github.com/user-attachments/assets/8660ff02-688a-47b9-a943-070acf22c60d)![image](https://github.com/user-attachments/assets/09033451-2b16-41dc-ad4e-3c1bb9aa0665)# Label Suggestore
+# Label Suggestore
 
 Выполнили студенты группы М8О-408Б-21:
 - Абдувохидов Эльдар
